@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm  a creative and constructive project and product manager with over 10 years of experience leading teams. I take pride in my empathetic leadership style, emphasizing communication and continuous improvement.
+I'm  a creative and constructive project and product manager with over 10 years of experience leading teams.
 
 My professional experience touches on almost all aspects of the software and product development space, including content creation, design, marketing, product ownership, scrum master, project management, and now, development! I'm currently enrolled in a comprehensive Full Stack development course through EdX and Case Western Reserve University because I believe that learning how to develop will make me an even better project manager.
 
